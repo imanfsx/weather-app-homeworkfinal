@@ -1,0 +1,10 @@
+footer {
+  font-size: 14px;
+  font-weight: 100;
+  text-align: center;
+}
+hr {
+  border-color: rgba(153, 144, 221, 40%);
+  border-width: 1px;
+  border-style: solid;
+}
